@@ -1,2 +1,3 @@
 # SummerHost
-summerhost.club
+https://summerhost.club/
+
