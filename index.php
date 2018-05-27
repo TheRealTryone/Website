@@ -130,7 +130,7 @@
 	      <li data-toggle="tooltip" data-placement="left" title="Owners have no clue what they are doing. They don't even know their VPS's password."><a href="https://multihosting.gq">https://multihosting.gq</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Owner have no clue what he are doing. He keeps asking if Pterodactyl can host any games out there despite being given the answer multiple times."><a href="https://lowpingservers.net/">https://lowpingservers.net/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://hexityhosting.com/">https://hexityhosting.com/</a></li>
-	      <li data-toggle="tooltip" data-placement="left" title="Does not have a panel. Taking orders via Skype???"><a href="https://www.tube-hosting.de/">https://www.tube-hosting.de/</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Does not have a portal. Taking orders via Skype???"><a href="https://www.tube-hosting.de/">https://www.tube-hosting.de/</a></li>
 	    </ul>
             <p class="text-muted"><small>I take no responsibility for the accuracy of these listings.</small></p>
           </div>
@@ -143,9 +143,10 @@
             <p class="text-muted">Certified Summer Hosts&trade; that no longer exist.</p>
             <hr>
             <ul>
-			  <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS and notorious scammers. THIS HOST IS NOT TO BE CONFUSED WITH SPARKEDHOST.US"><a href="http://sparked.host/">https://sparked.host</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="$0.10/GB, Generic website template that's very broken, lying about their hardware and the owner has absolute no idea of what he was talking about."><a href="https://razer.host">https://razer.host</a></li>  
-			</ul>
+	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS and notorious scammers. THIS HOST IS NOT TO BE CONFUSED WITH SPARKEDHOST.US"><a href="http://sparked.host/">https://sparked.host</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="$0.10/GB, Generic website template that's very broken, lying about their hardware and the owner has absolute no idea of what he was talking about."><a href="https://razer.host">https://razer.host</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="At first I thought this was a meme, but looking at snapshots of the site from early 2017 I see it was a scam site."><a href="http://mzunguhosting.ml/">http://mzunguhosting.ml/</a></li>  
+	    </ul>
           </div>
         </div>
         <br>		
