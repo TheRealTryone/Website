@@ -2,7 +2,7 @@ server {
 	listen 443 ssl http2;
 
 	server_name summerhost.club;
-	root /var/www/html/summerhost;
+	root /var/www/summerhost;
 
 	index index.php;
 
