@@ -117,17 +117,17 @@
             <hr>
             <ul>
               <li data-toggle="tooltip" data-placement="left" title="$1/GB (as of writing), Unregistered business, WYSIWYG Website Maker, $0.10 Reseller Program, Integrity & Privacy Statements in .docx format, literally outsources hosting to randos, and Investor Relations page is litterally just a google sheets document."><a href="https://enteron.world">https://enteron.world</a></li>
-              <li data-toggle="tooltip" data-placement="left" title="Generic template with no images replaced and Nulled WHMCS."><a href="https://meshnode.co.uk">https://meshnode.co.uk</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Same owner as Enteron.world, known for lying to customers about being a registered bussiness and have horrible hardware. The site is also super broken and the owner went on begging me not to add his website."><a href="https://bombmc.host">https://bombmc.host</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Generic template with no images replaced and Nulled WHMCS."><a href="https://meshnode.co.uk">https://meshnode.co.uk</a></li>
               <li data-toggle="tooltip" data-placement="left" title="Super broken website (try hovering over contact button or clicking logo), Billing panel has https:// but still using http:// for login form and Discord support."><a href="https://redstonehosting.nl">https://redstonehosting.nl</a></li>
               <li data-toggle="tooltip" data-placement="left" title="Broken website, Discord Support and No real billing system apart from a 123FormBuilder form from what I can tell."><a href="https://flarehost.nl">https://flarehost.nl</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Literally does not even have a website, just selling services through Discord (as of writing, since then they've gotten a free webhost to host their site)."><a href="https://discord.gg/xY3HUr2">babynode</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Ddosing competitors (DeluxeNode)."><a href="https://mcshosting.co/">https://mcshosting.co</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Same owner as mcshoting.co."><a href="https://freemc.site">https://freemc.site</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://danskhosting.eu/">https://danskhosting.eu</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS. Strangely enough, dankhosting.eu owner is also a support staff here."><a href="https://nitrohosting.pro">https://nitrohosting.pro</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Immature owner and has absolute no clue what he is doing. Also, the prices are misleading."><a href="https://nutritioushost.me/">https://nutritioushost.me</a></li>
-			  <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="gamelifenetwork.com">https://gamelifenetwork.com</a></li>
-			</ul>
+	      <li data-toggle="tooltip" data-placement="left" title="Literally does not even have a website, just selling services through Discord (as of writing, since then they've gotten a free webhost to host their site)."><a href="https://discord.gg/xY3HUr2">babynode</a></li>
+              <li data-toggle="tooltip" data-placement="left" title="Ddosing competitors (DeluxeNode). Nicke also lied to me that it was false accusations in an attempt to get me remove his horrible company from the site."><a href="https://mcshosting.co/">https://mcshosting.co</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Same owner as mcshoting.co."><a href="https://freemc.site">https://freemc.site</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Immature owner and has absolute no clue what he is doing. Also, the prices are misleading."><a href="https://nutritioushost.me/">https://nutritioushost.me</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://gamelifenetwork.com">https://gamelifenetwork.com</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Banning people as soon as they ask about the hardware. The owner is extrenely rude and ignorant."><a href="https://minehub.de/">https://minehub.de</a></li>		    
+	    </ul>
             <p class="text-muted"><small>I take no responsibility for the accuracy of these listings.</small></p>
           </div>
         </div>
