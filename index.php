@@ -132,6 +132,8 @@
 	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://hexityhosting.com/">https://hexityhosting.com/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Does not have a portal. Taking orders via Skype???"><a href="https://www.tube-hosting.de/">https://www.tube-hosting.de/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Very immature owner (can be seen on MCM)."><a href="https://zealhosting.host/">https://zealhosting.host/</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Security Breach"><a href="https://www.ugnservers.net/">https://www.ugnservers.net/</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Amazing I7 CPUs that don't even exist."><a href="https://gearshifthosting.co.uk">https://gearshifthosting.co.uk</a></li>	    
           </ul>
             <p class="text-muted"><small>I take no responsibility for the accuracy of these listings.</small></p>
           </div>
