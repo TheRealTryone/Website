@@ -116,6 +116,7 @@
             <p class="text-muted">A collection of low quality or illegally operating hosts that I've seen while browsing the internet. I'd recommend avoiding these hosts if possible.</p>
             <hr>
             <ul>
+	      <li data-toggle="tooltip" data-placement="left" title="Security Breach. The owner is known to be toxic and he also failed to secure his server. Despite of him being told that there was only 1 guy involved in hacking him, he tries to make it look as if we (SummerHost) attacked him. https://imgur.com/a/S7QMeaP "><a href="https://www.ugnservers.net/">https://www.ugnservers.net/</a></li>
               <li data-toggle="tooltip" data-placement="left" title="$1/GB (as of writing), Unregistered business, WYSIWYG Website Maker, $0.10 Reseller Program, Integrity & Privacy Statements in .docx format, literally outsources hosting to randos, and Investor Relations page is litterally just a google sheets document."><a href="https://enteron.world">https://enteron.world</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Same owner as Enteron.world, known for lying to customers about being a registered bussiness and have horrible hardware. The site is also super broken and the owner went on begging me not to add his website."><a href="https://bombmc.host">https://bombmc.host</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Generic template with no images replaced and Nulled WHMCS."><a href="https://meshnode.co.uk">https://meshnode.co.uk</a></li>
@@ -132,7 +133,6 @@
 	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://hexityhosting.com/">https://hexityhosting.com/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Does not have a portal. Taking orders via Skype???"><a href="https://www.tube-hosting.de/">https://www.tube-hosting.de/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Very immature owner (can be seen on MCM)."><a href="https://zealhosting.host/">https://zealhosting.host/</a></li>
-	      <li data-toggle="tooltip" data-placement="left" title="Security Breach"><a href="https://www.ugnservers.net/">https://www.ugnservers.net/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Amazing I7 CPUs that don't even exist."><a href="https://gearshifthosting.co.uk">https://gearshifthosting.co.uk</a></li>	    
           </ul>
             <p class="text-muted"><small>I take no responsibility for the accuracy of these listings.</small></p>
