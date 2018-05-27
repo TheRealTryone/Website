@@ -131,7 +131,8 @@
 	      <li data-toggle="tooltip" data-placement="left" title="Owner have no clue what he are doing. He keeps asking if Pterodactyl can host any games out there despite being given the answer multiple times."><a href="https://lowpingservers.net/">https://lowpingservers.net/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://hexityhosting.com/">https://hexityhosting.com/</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Does not have a portal. Taking orders via Skype???"><a href="https://www.tube-hosting.de/">https://www.tube-hosting.de/</a></li>
-	    </ul>
+	      <li data-toggle="tooltip" data-placement="left" title="Very immature owner (can be seen on MCM)."><a href="https://zealhosting.host/">https://zealhosting.host/</a></li>
+          </ul>
             <p class="text-muted"><small>I take no responsibility for the accuracy of these listings.</small></p>
           </div>
         </div>
