@@ -127,6 +127,10 @@
 	      <li data-toggle="tooltip" data-placement="left" title="Immature owner and has absolute no clue what he is doing. Also, the prices are misleading."><a href="https://nutritioushost.me/">https://nutritioushost.me</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://gamelifenetwork.com">https://gamelifenetwork.com</a></li>
 	      <li data-toggle="tooltip" data-placement="left" title="Banning people as soon as they ask about the hardware. The owner is extrenely rude and ignorant."><a href="https://minehub.de/">https://minehub.de</a></li>		    
+	      <li data-toggle="tooltip" data-placement="left" title="Owners have no clue what they are doing. They don't even know their VPS's password."><a href="https://multihosting.gq">https://multihosting.gq</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Owner have no clue what he are doing. He keeps asking if Pterodactyl can host any games out there despite being given the answer multiple times."><a href="https://lowpingservers.net/">https://lowpingservers.net/</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Nulled WHMCS."><a href="https://hexityhosting.com/">https://hexityhosting.com/</a></li>
+	      <li data-toggle="tooltip" data-placement="left" title="Does not have a panel. Taking orders via Skype???"><a href="https://www.tube-hosting.de/">https://www.tube-hosting.de/</a></li>
 	    </ul>
             <p class="text-muted"><small>I take no responsibility for the accuracy of these listings.</small></p>
           </div>
