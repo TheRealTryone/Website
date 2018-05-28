@@ -9,6 +9,14 @@ server {
 	ssl_certificate /etc/letsencrypt/live/summerhost.club/fullchain.pem;
 	ssl_certificate_key /etc/letsencrypt/live/summerhost.club/privkey.pem;
 
+	#Security Headers
+	add_header X-Frame-Options "SAMEORIGIN" always;
+	add_header X-XSS-Protection "1; mode=block" always;
+	add_header X-Content-Type-Options "nosniff" always;
+	add_header Referrer-Policy "no-referrer-when-downgrade" always;
+	add_header Content-Security-Policy "default-src * data: 'unsafe-eval' 'unsafe-inline'" always;
+	add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+	
 	location / {
 		try_files $uri $uri/ /index.php?$query_string;
 	}
