@@ -1,4 +1,5 @@
 # Ethereal793.github.io
-SummerHost Official Repo - Exposing illegal and low quality hosts
+SummerHost Official Repo
 
 https://summerhost.club/
+https://ethereal793.github.io
