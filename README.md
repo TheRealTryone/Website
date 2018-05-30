@@ -2,4 +2,3 @@
 SummerHost Official Repo
 
 https://summerhost.club/
-https://ethereal793.github.io
