@@ -4,7 +4,7 @@ server {
 	server_name summerhost.club;
 	root /var/www/summerhost;
 
-	index index.php;
+	index index.html;
 
 	ssl_certificate /etc/letsencrypt/live/summerhost.club/fullchain.pem;
 	ssl_certificate_key /etc/letsencrypt/live/summerhost.club/privkey.pem;
