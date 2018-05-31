@@ -1,4 +1,4 @@
-# Ethereal793.github.io
+# SummerHost/Website
 SummerHost Official Repo
 
 https://summerhost.club/
